@@ -1,0 +1,4 @@
+{
+  "public": "public",
+  "rewrites": [{ "source": "/", "destination": "/california_housing.html" }]
+}
