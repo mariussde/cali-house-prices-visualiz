@@ -8,7 +8,7 @@ This project visualizes the California housing dataset on an interactive map usi
 - Circle size represents the average number of rooms in a region.
 - Circle color represents the median house value, with a gradient color scale from green (lower values) to red (higher values).
 - Popups displaying detailed information about each region, including median house value, average rooms, population, and median income.
-- A mini-map for easier navigation.
+- A mini-map for easier navigation around the screen.
 
 ## Installation
 
